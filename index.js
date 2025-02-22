@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const CheapWatch = require('cheap-watch')
 const { spawn } = require('node:child_process')
 
