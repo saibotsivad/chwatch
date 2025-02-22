@@ -1,0 +1,28 @@
+{
+  "name": "chwatch",
+  "version": "0.0.0",
+  "description": "Cheaply watch files and execute commands when changed.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibotsivad/chwatch.git"
+  },
+  "keywords": [
+    "cheap-watch",
+    "cli",
+    "watch"
+  ],
+  "author": {
+    "name": "Tobias Davis",
+    "email": "tobias@davistobias.com",
+    "url": "https://davistobias.com"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/saibotsivad/chwatch/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/chwatch",
+  "dependencies": {
+    "cheap-watch": "^1.0.4"
+  }
+}
