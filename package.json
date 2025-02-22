@@ -1,6 +1,6 @@
 {
   "name": "chwatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cheaply watch files and execute commands when changed.",
   "bin": "index.js",
   "repository": {
