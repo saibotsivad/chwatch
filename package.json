@@ -2,7 +2,7 @@
   "name": "chwatch",
   "version": "1.0.0",
   "description": "Cheaply watch files and execute commands when changed.",
-  "main": "index.js",
+  "bin": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/saibotsivad/chwatch.git"
